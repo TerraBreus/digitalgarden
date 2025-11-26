@@ -54,3 +54,8 @@ What do you want to do?
 - [Reject Convenience](https://www.youtube.com/@rejectconvenience)
 - [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins)
 - [Struthless](https://www.youtube.com/@struthless)
+
+  ## HTML & CSS
+  - https://actualwebsite.org/#fn2
+  - https://htmldog.com/guides/html/
+  - `view-source:`https://somelink.org
