@@ -48,3 +48,9 @@ What do you want to do?
 ## The Twilight Zone
 - https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot/
 - https://archive.org/details/the-twilight-zone-1959-s-02-e-11-the-night-of-the-meek
+
+## Youtube channels
+- [Louis Rossmann](https://www.youtube.com/@rossmanngroup)
+- [Reject Convenience](https://www.youtube.com/@rejectconvenience)
+- [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins)
+- [Struthless](https://www.youtube.com/@struthless)
