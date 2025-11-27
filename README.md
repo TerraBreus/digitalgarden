@@ -59,3 +59,6 @@ What do you want to do?
   - https://actualwebsite.org/#fn2
   - https://htmldog.com/guides/html/
   - `view-source:`https://somelink.org
+
+## Journalling
+- https://www.tinylogger.com
