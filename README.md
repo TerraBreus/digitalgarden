@@ -63,3 +63,12 @@ What do you want to do?
 
 ## Journalling
 - https://www.tinylogger.com
+
+## Mindful Productivity
+I don't want to hate the idea of working so let's (try to) make it more fun.
+
+Find an online study buddy (requires a camera and a microphone)
+- https://www.focusmate.com/
+
+Make a game out of studying / practicing habbits
+- https://habitica.com/register
