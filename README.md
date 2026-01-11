@@ -72,3 +72,6 @@ Find an online study buddy (requires a camera and a microphone)
 
 Make a game out of studying / practicing habbits
 - https://habitica.com/register
+
+Letterbird: An easy and pretty way to have people email you
+https://letterbird.co/signup
