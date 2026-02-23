@@ -1,7 +1,9 @@
+# (Very very clearly an unusable WIP)
+
 ###### credits to possibly my favorite content creator [* click *](https://www.youtube.com/watch?v=6fj-OJ6RcNQ)
 
 _At some point, I want this to on my own website but for now this will do_
-# My Digital Garden
+# My Digital Garden 
   As of now, these are simply all links given by [Struthless](https://www.youtube.com/watch?v=6fj-OJ6RcNQ). I have yet to explore on them and also want to sort and describe them a little. However, first we must start with the copy-pasta.
 
 What do you want to do?
