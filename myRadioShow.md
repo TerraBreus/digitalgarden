@@ -27,7 +27,9 @@ Short section to introduce the listener. As a creative way of bringing myself cl
 Introducing the general theme of the episode: Spring and new Beginnings.
 
 ---
-A song to kick things off with.
+Hello Hannah! How lovely it is to have you here with me! Welcome to, what seems to be, a 45 minute episode of me talking! But don't worry, you won't hear me all the time, cause I've got some music to play as well! 
+
+So make yourself comfortable and get ready to go on a musical journey!
 
 Introduce the artist. Your relation to the album. Christian Rock Band that does not sell itself as a jehovah. Elements of religion applicable to my generation right now.
 
@@ -39,6 +41,12 @@ Afterwards I'd like to dissect some of the topics discussed in this song.
 I'm seeing every empty page
 But I find that everything I am is everything I should be
 Yeah, I don't need to run away"
+```
+```
+Searching for a new escape
+I scan the exits
+that embrace
+an easy out
 ```
 The idea of having hope for the future can be both exciting and daunting. Daunting of the empty pages yet to fill (and how they need to be something worth writing about)
 I see growing up as making choices which inevitably means sacrificing options. However, this song shows me an alternative where growing up doesn't mean letting go of certain dreams but showing appreciation for the current state of things. Not to be caught up in the future, only thinking ahead, but appreciating and trusting the process. It is a reminder of how real process doesn't come from having a goal or a vision but rather seeing the path you are on currently.
@@ -77,6 +85,8 @@ Everything will come to an end, however memories can remain for longer. This son
 Funny to know is how this artist was never popular. The songs are recorded and released in 1970 and never got any acclaim. However, in the early 2010's Rodriguez was rediscovered and Rodriguez was able to make several world tours before passing away in 2023 at the age of 81.
 
 ---
+
+**PARCELS - "Every night" de Paul McCartney]**
 
 A song to dance to:
 
