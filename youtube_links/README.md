@@ -1,10 +1,9 @@
-Simple but effective?
+I do indeed like to watch YouTube from time to time. Combining this with "mindful" consumption, this is a repository where I store the Youtube Links for videos that I want to watch later on. Not having a browser makes this somewhat difficult. However I can download the videos on my terminal only Desktop using `yt-dlp`. 
 
-I can put all of the videos I want to download later on on my raspberry so I can watch it on my TV for ultimate comfy mode (yeah).
+## Overview
 
-Just going to put some links with descriptions I suppose.
+There are two directories (as of now).
 
-# A Curiously Minty CyberDeck - Exercising Ingenuity
-Because I love creations like these and they scratch my need for doing something like this myself :)
+One contains videos that I can yet watch. My so to call "feed". The other is a collection of videos I have already watched. 
 
-`https://www.youtube.com/watch?v=j262kCYZxZI&pp=ugUHEgVlbi1DQQ%3D%3D`
+If I want to, I might add notes to the files for my head to store thoughts.
