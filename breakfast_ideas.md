@@ -1,3 +1,10 @@
+Main Idea:
+
+`Protein + Fibers + Fruit`
+
+Warm or Cold?
+---
+
 Overnight Oats
 
     - Oats (duh)
